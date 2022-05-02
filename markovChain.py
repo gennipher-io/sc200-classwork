@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 #Gennipher Ricks
 #SC 200 Module 4c, 4d
 #Programming Assignment
@@ -76,10 +70,3 @@ print('it takes about 7 cycles to reach equilibrium.')
 print()
 print('Additionally, if you change your tolerance to a higher precision,')
 print('it will take you slightly longer to reach equilibrium.')
-
-
-# In[ ]:
-
-
-
-
