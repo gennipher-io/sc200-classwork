@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 #Drunkard's walk simulation
 import numpy as np
 import numpy.random as rand
@@ -44,10 +38,3 @@ distance = np.sqrt(new_x**2 + new_y**2) #distance formula = sqrt[(x2 -x1)**2 + (
 print('Distance traveled:', distance)
 distance_sq = new_x**2 + new_y**2
 print('Distance squared:', distance_sq)
-
-
-# In[ ]:
-
-
-
-
