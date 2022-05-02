@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[2]:
-
-
 #Gennipher Ricks
 #SC 200 Module 5a, 5b
 #Programming Assignment
@@ -58,22 +52,3 @@ print()
 # Print all of your calculated distances
 print('Your 1000 calculated distance values are:')
 print(dist)
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
